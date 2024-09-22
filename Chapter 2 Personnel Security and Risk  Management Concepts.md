@@ -244,3 +244,4 @@ Technology and threats are constantly evolving, and security awareness programs 
 Organizations must continuously evaluate the **effectiveness of their security awareness programs**. This can be done through metrics such as incident response times, reductions in successful phishing attacks, or employee participation in security training programs. Ongoing assessments ensure that training remains relevant and impactful, ultimately reducing human errors that can lead to security breaches.
 
 ---
+[Chapter 4 - Laws, Regulations, and Compliance](./Chapter%204%20%20Laws%2C%20Regulations%2C%20and%20Compliance.md)

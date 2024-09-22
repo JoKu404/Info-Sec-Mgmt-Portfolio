@@ -146,3 +146,4 @@ This is central to secure system design. Here, the focus shifts toward integrati
 The principle of **Defense in Depth** advocates for multiple layers of security controls, ensuring that if one control fails, others are still in place to protect the system. By employing a combination of physical, administrative, and technical controls, organizations can mitigate the risks posed by evolving threats. **Defense in Depth** is a core component of any effective security architecture, ensuring that no single point of failure can lead to a catastrophic breach.
 
 ---
+[Chapter 2 - Personnel Security and Risk Management Concepts](./Chapter%202%20Personnel%20Security%20and%20Risk%20%20Management%20Concepts.md)

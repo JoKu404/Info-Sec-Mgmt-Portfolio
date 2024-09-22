@@ -8,7 +8,7 @@ Objective:
 
 ---
 
-## 📅 Week 2: [Chapter 2 - Personnel Security and Risk Management Concepts](./Chapter%202%20Personnel%20Security%20and%20Risk%20%20anagement%20Concepts.md)
+## 📅 Week 2: [Chapter 2 - Personnel Security and Risk Management Concepts](./Chapter%202%20Personnel%20Security%20and%20Risk%20%20Management%20Concepts.md)
 Objective:  
 💡 **Identify and apply information security foundation concepts** to include **least privilege, compare and contrast security and integrity models**, and the risks those concepts seek to reduce.
 

@@ -14,7 +14,7 @@ Objective:
 
 ---
 
-## 📅 Week 3: [Chapter 4 - Laws, Regulations, and Compliance](./Chapter%204%20Laws%20Regulations%20and%20Compliance.md)
+## 📅 Week 3: [Chapter 4 - Laws, Regulations, and Compliance](./Chapter%204%20%20Laws%2C%20Regulations%2C%20and%20Compliance.md)
 Objective:  
 💡 **Demonstrate an understanding of legal and policy impacts** to IT systems and information assurance.
 

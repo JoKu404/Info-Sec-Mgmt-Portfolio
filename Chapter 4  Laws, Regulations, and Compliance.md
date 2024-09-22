@@ -95,3 +95,4 @@ Finally, organizations must adhere to **contractual, legal, and industry standar
 Industry standards, such as those developed by **NIST**, **ISO**, and **COBIT**, provide guidelines and best practices for implementing effective security controls. These frameworks help organizations assess their risk, implement security measures, and ensure compliance with regulatory obligations.
 
 ---
+[Chapter 5 - Protecting Security of Assets](./Chapter%205%20%20Protecting%20Security%20of%20Assets.md)

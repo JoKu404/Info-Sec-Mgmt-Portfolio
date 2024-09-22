@@ -20,7 +20,7 @@ Objective:
 
 ---
 
-## 📅 Week 4: [Chapter 5 - Protecting Security of Assets](./Chapter%205%20Protecting%20Security%20of%20Assets.md)
+## 📅 Week 4: [Chapter 5 - Protecting Security of Assets](./Chapter%205%20%20Protecting%20Security%20of%20Assets.md)
 Objective:  
 💡 **Be able to assess assets, threats to those assets,** compare and contrast **vulnerabilities and controls** that reduce risk exposure.
 

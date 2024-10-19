@@ -1,4 +1,4 @@
-# Weeks 5, 6, 7, 8 found below. Please scroll down.
+# 🆕Weeks 5, 6, 7, 8 found below. Please scroll down.🆕
 
 # 🌐 Information Security Management Individual Portfolio
 

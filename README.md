@@ -28,25 +28,25 @@ Objective:
 
 ---
 
-## 📅 Week 5: [Chapter 6: Cryptography and Symmetric Key Algorithms & Chapter 7: PKI and Cryptographic Applications](./Chapter%204%20%20Laws%2C%20Regulations%2C%20and%20Compliance.md)
+## 📅 Week 5: [Chapter 6: Cryptography and Symmetric Key Algorithms & Chapter 7: PKI and Cryptographic Applications](./Week%205.md)
 Objective:  
 💡 **Be able to identify and contrast public and private key cryptographic systems, describe their application and benefits, and understand some challenges in deploying an maintaining cryptographic solutions for an enterprise.**
 
 ---
 
-## 📅 Week 6: [Chapter 8: Principles of Security Models, Design, and Capabilities & Chapter 9: Security Vulnerabilities, Threats, and Countermeasures](./Chapter%205%20%20Protecting%20Security%20of%20Assets.md)
+## 📅 Week 6: [Chapter 8: Principles of Security Models, Design, and Capabilities & Chapter 9: Security Vulnerabilities, Threats, and Countermeasures](./Week%206.md)
 Objective:  
 💡 **Understand risk management calculations, expected loss, and how to use asset inventories with such calculations to assess and Understand risk management calculations, expected loss, and how to use asset inventories with such calculations to assess and price security countermeasures and present arguments to management on budget requirements.** 
 
 ---
 
-## 📅 Week 7: [Chapter 10: Physical Security Requirements](./Chapter%204%20%20Laws%2C%20Regulations%2C%20and%20Compliance.md)
+## 📅 Week 7: [Chapter 10: Physical Security Requirements](./Week%207.md)
 Objective:  
 💡 **Be able to assess assets, threats to those assets, compare and contrast vulnerabilities and controls that reduce risk exposure**
 
 ---
 
-## 📅 Week 8: [Chapter 11: Secure Network Architecture and Components & # Chapter 12: Secure Communications and Network Attacks](./Chapter%205%20%20Protecting%20Security%20of%20Assets.md)
+## 📅 Week 8: [Chapter 11: Secure Network Architecture and Components & # Chapter 12: Secure Communications and Network Attacks](./Week%208.md)
 Objective:  
 💡 **Be able to assess assets, threats to those assets, compare and contrast vulnerabilities and controls that reduce risk exposure**
 

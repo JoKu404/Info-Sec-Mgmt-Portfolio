@@ -1,4 +1,4 @@
-# 🆕Weeks 5, 6, 7, 8 found below. [Hyperlink Here](## 📅 Week 5: [Chapter 6: Cryptography and Symmetric Key Algorithms & Chapter 7: PKI and Cryptographic Applications](./Week%205.md)).🆕
+# 🆕Weeks 5, 6, 7, 8 found below. [Hyperlink Here](- 📅 Week 5: [Chapter 6: Cryptography and Symmetric Key Algorithms & Chapter 7: PKI and Cryptographic Applications](./Week%205.md)).🆕
 
 # 🌐 Information Security Management Individual Portfolio
 

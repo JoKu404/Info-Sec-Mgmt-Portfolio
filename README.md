@@ -1,4 +1,4 @@
-# 🆕Weeks 5, 6, 7, 8 found below. [Hyperlink Here](- 📅 Week 5: [Chapter 6: Cryptography and Symmetric Key Algorithms & Chapter 7: PKI and Cryptographic Applications](./Week%205.md)).🆕
+# 🆕Weeks 5, 6, 7, 8 found below. [Hyperlink Here](# Week 8 Submission Below).🆕
 
 # 🌐 Information Security Management Individual Portfolio
 
@@ -27,6 +27,8 @@ Objective:
 💡 **Be able to assess assets, threats to those assets,** compare and contrast **vulnerabilities and controls** that reduce risk exposure.
 
 ---
+
+# Week 8 Submission Below
 
 ## 📅 Week 5: [Chapter 6: Cryptography and Symmetric Key Algorithms & Chapter 7: PKI and Cryptographic Applications](./Week%205.md)
 Objective:  

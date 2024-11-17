@@ -139,9 +139,7 @@ JIT provisioning reduces administrative overhead, minimizes unused accounts, and
 
 ### **Know about credential management systems.**  
 
-Credential
-
- management systems, such as **password vaults** or **identity managers**, securely store and manage user credentials. These systems ensure that sensitive information, like passwords, is encrypted and accessible only to authorized users.  
+Credential management systems, such as **password vaults** or **identity managers**, securely store and manage user credentials. These systems ensure that sensitive information, like passwords, is encrypted and accessible only to authorized users.  
 
 For instance, a password vault might generate and store complex passwords for each application a user accesses, eliminating the need to remember them. Enterprise credential managers often integrate with SSO and MFA solutions, further enhancing security.  
 
@@ -367,9 +365,7 @@ AAA protocols, such as RADIUS and TACACS+, are commonly used in network environm
 1. **Vertical Escalation**: Gaining administrative privileges from a lower-level account.  
 2. **Horizontal Escalation**: Accessing another user's privileges without increasing privilege levels.  
 
-Privilege escalation poses a significant risk, as it can lead to unauthorized access to sensitive data or critical systems. Mitigation strategies include limiting administrative privileges, auditing privilege
-
- usage, and using tools like **sudo** for controlled privilege elevation.  
+Privilege escalation poses a significant risk, as it can lead to unauthorized access to sensitive data or critical systems. Mitigation strategies include limiting administrative privileges, auditing privilege usage, and using tools like **sudo** for controlled privilege elevation.  
 
 ---
 

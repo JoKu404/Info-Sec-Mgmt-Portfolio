@@ -1,4 +1,4 @@
-# 🆕Weeks 9, 10, 11, 12 found below. [Hyperlink Here](#Week-12-Submission-Below).🆕
+# 🆕(NEW) Weeks 9, 10, 11, 12 found below. [Hyperlink Here](#Week-12-Submission-Below).(NEW)🆕
 
 # 🌐 Information Security Management Individual Portfolio
 

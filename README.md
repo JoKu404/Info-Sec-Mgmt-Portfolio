@@ -1,4 +1,4 @@
-# 🆕Weeks 5, 6, 7, 8 found below. [Hyperlink Here](#Week-8-Submission-Below).🆕
+# 🆕Weeks 9, 10, 11, 12 found below. [Hyperlink Here](#Week-12-Submission-Below).🆕
 
 # 🌐 Information Security Management Individual Portfolio
 
@@ -54,3 +54,28 @@ Objective:
 
 ---
 
+# Week 12 Submission Below
+
+## 📅 Week 9: [Chapter 13: Managing Identity and Authentication & Chapter 14: Controlling and Monitoring Access](./Week%209.md)  
+Objective:
+💡 **Be able to assess assets, threats to those assets, compare and contrast vulnerabilities and controls that reduce risk exposure.**
+
+---
+
+## 📅 Week 10: [Chapter 15: Security Assessment and Testing & Chapter 16: Managing Security Operations](./Week%2010.md)  
+Objective:
+💡 **Be able to assess assets, threats to those assets, compare and contrast vulnerabilities and controls that reduce risk exposure.**
+
+---
+
+## 📅 Week 11: [Chapter 17: Preventing and Responding to Incidents & Chapter 18: Disaster Recovery Planning](./Week%2011.md)  
+Objective:
+💡 **Demonstrate understanding of disaster planning and disaster recovery as it relates to IT and business continuity.**
+
+---
+
+## 📅 Week 12: [Chapter 19: Investigations and Ethics](./Week%2012.md)  
+Objective:
+💡 **Demonstrate an understanding of legal and policy impacts to IT systems and information assurance.**
+
+---
